@@ -1,0 +1,48 @@
+id: P61A13637
+initial_creation_type: input
+source_metadata:
+  title: Dhāraṇī Series
+  language: zh
+  description: 'A selection of texts related to dhāraṇī (gzungs), mantric formulae
+    or incantations:'
+  volume:
+    19dfa221cd694347b3045cc895f0fa49:
+      title: The Dhāraṇī of Amitāyus
+      parent: Amitāyus
+    57c2739ce854429cb6807206564fa06f:
+      title: The Means for Accomplishment called the Blazing Wheel
+      parent: Blazing Wheel
+    fbeecc30701942d281c7e6115b7d49fd:
+      title: The Noble Essence of Dependent Origination
+      parent: Dependent Origination
+    70786a74bddd4ee4b30c187cfcadd4a2:
+      title: Dhāraṇī of Goddess Parṇaśavarī
+      parent: Parṇaśavarī
+    a8fbacf1109a4a3e8e1914d7b9aa4629:
+      title: The Noble Dhāraṇī of The Supreme Accomplishment of Sitātapatrā Born from
+        the Tathāgata’s Uṣṇīṣa, the Great Invincible Dispeller
+      parent: Sitātapatrā
+    c771e0b9b8f744ccac36ec8daa6a1f64:
+      title: The Noble Mārīcī Dhāraṇī
+      parent: Mārīcī
+    f95d14dfb270411daf48675e2397a144:
+      title: The Noble Incantation entitled ‘The Rituals for the Blue-Clad Vajrapāṇi’
+      parent: Vajrapāṇi
+    56725c3592e44cf5bb06419c3860ae9a:
+      title: Vajravidāraṇa Dhāraṇī (Nyingma Version)
+      parent: Vajravidāraṇa
+    94ca41cca9b54aa49a07e3fb604dfcfd:
+      title: The Dhāraṇīs That Encapsulate the Essence of the Kangyur, the Collected
+        Words of the Buddha
+      parent: Various
+    285ae90609784d8eb6d94df60681f39b:
+      title: The Dhāraṇī of Stream of Wealth (Vasudhārā)
+      parent: Vasudhārā
+    4469bd1c1b6f4d81a2196ff54a2be98d:
+      title: The Dhāraṇī of Glorious Vajraṇakhī
+      parent: Vajraṇakhī
+    77add56bc7ad405192f9492bf2984b09:
+      title: Brief Dhāraṇī of Glorious Vajraṇakhī
+      parent: Vajraṇakhī
+created_at: '2022-03-01T03:25:10.946040'
+last_modified_at: '2022-03-01T03:25:10.946043'
